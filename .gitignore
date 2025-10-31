@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+*.sqlite
+*.db
+.DS_Store
+.env
+/data/large_raw_data.csv
